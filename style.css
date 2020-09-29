@@ -1,0 +1,30 @@
+.satu {
+    overflow: scroll;
+    width: 300px ;
+    height:100px;
+    
+}
+.dua{
+    overflow: scroll;
+    width:250px ;
+    height:100px;
+}
+
+.tiga{
+    overflow: scroll;
+    width:300px ;
+    height:100px;
+}
+.satu{
+    /* border: solid turquoise 20px; */
+    border:  dotted red 10px;
+
+}
+.dua{
+    border: solid green ;
+}
+p{
+    background-color: turquoise;
+}
+.tiga{
+    border: dashed blue 20px;
